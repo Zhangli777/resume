@@ -1,120 +1,109 @@
 ---
-# Language (Optional)
-lang: en
-# Site Keywords & Description
-keywords: Resume,Dxin Xia's Resume
-description: Rome is not build in one day 
-# Resume Title
-resume_title: Dxin Xia
-# Job Applicant Name
-name: Dxin Xia
-avatar: https://b3logfile.com/file/2021/11/WechatIMG320-874dadbf.jpeg
-background_pic: https://ftp.stackoverflow.wiki/bolo/background/butterfly/3.jpg
-# Contact
+# 语言 （可选）
+lang: en-us
+# 网页关键词和描述
+keywords: Resume,zhangli's Resume
+description: Hello! I'm looking for a job. Look at me@_@
+# 简历标题
+resume_title: Resume
+# 应聘者姓名
+name: Zhang  Li
+avatar: https://s3.bmp.ovh/imgs/2022/07/04/5e6e7ae3dc3d0ac2.jpg
+background_pic: https://ftp.stackoverflow.wiki/bolo/background/butterfly/4.jpg
+# 联系方式
 contact:
-  # URL
-  - icon: fas fa-globe-europe
-    text: https://aeneag.xyz
-    url: https://aeneag.xyz
-  # URL
-  - icon: fas fa-globe-asia
-    text: https://dxinxia.icu
-    url: https://dxinxia.icu
-  # Email
+  - icon: fas fa-phone-alt
+    text: 15544777626
+       
+  # 邮箱
   - icon: fas fa-envelope
-    text: aeneag@163.com
-    url:
+    text: coekily_mae@163.com
+    url:   
   # wechat
   - icon: fa fa-wechat
-    text: aeneag
-    url: https://b3logfile.com/file/2021/08/1031630411994_.pic_hd-58460640.jpg
+    text: WeChat
+    url: https://s3.bmp.ovh/imgs/2022/07/04/6486ce3bf6ca9f2d.jpg
 picture:
-  title: WeChat Official Accounts
-  url: https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg 
-  blog: https://aeneag.xyz
-  blogname: Personal Blog
-# PDF Download Link
+  # title: 公众号：技术乱舞
+  # url: https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg
+  # blog: https://aeneag.xyz
+  # blogname: 个人博客
+# PDF下载链接
 # download:
-#   title: 
-#   icon: 
-#   url: 
+#   title: 个人博客
+#   icon: fa fa-wechat
+#   url: https://aeneag.xyz
+# copyright: '[Copyright © 2017-2020 Aen](https://aeneag.xyz)'
 ---
 
 {% raw %}
 <center>
-<a style="color:#845ec2;font-family: Times New Roman;" href='/'>简体中文</a> | <a style="color:#845ec2;font-family: Times New Roman;" href='/en-us/'>English</a>
+<a style="color:#845ec2;font-family: Times New Roman;" href='/'>Chinese</a> | <a style="color:#845ec2;font-family: Times New Roman;" href='/en-us/'>English</a>
 </center>
 {% endraw %}
-## <i class="fas fa-flag"></i> Personal information
 
-> If the memory will make ripples, then today's autumn red leaves and blue skies are yours.
+## <i class="fas fa-flag"></i> Personal Information 
+<!-- ## <i class="fa fa-id-card-o"></i> 个人信息  -->
+> People's confusion is very sharp, and persistence is very cumbersome.
 
-- name: Dxin Xia
-- Age: 97
-- Height: 188😄
-- Gender: Pure male
-- Email: aeneag@163.com
+- Last&emsp;Name: Zhang Li
+- Age: 23
+- Nation: Han
+- Sex:Female
+- Mail: coekily_ mae@163.com
+- Phone: 15544777626
+- Political outlook: CPC member
+- Ji Guan: Zhangjiakou City, Hebei Province
+- Address: Haidian District, Beijing
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhang Li**，2022.6 graduated from the 2018 undergraduate class of network engineering in Handan University, and firmly mastered professional knowledge during school. I hope to continue to engage in professional related work in the future.
 
 
-&nbsp;&nbsp;**Dxin Xia**，I am currently studying for a master's degree in electronic Information in Dalian University of Technology. I graduated from Shandong Jianzhu University majoring in computer Science and Technology with a bachelor's degree. I am interested in embedded, BootLoader, Linux kernel, driver, etc.My recent research focuses on edge computing, mobile computing, especially computing offloading and deep learning.
+
+## <i class="fas fa-user-graduate"></i> Educational Background
+
+
+<!-- 
+### **邯郸学院-信息工程学院-网络工程（本科）**  <a style="float:right; color: #845ec2; width:auto;">2018/9—2022/6</a>
+* 荣誉称号：优秀团干部&emsp;&emsp;三好学生
+* 在校奖项：2019年河北省"互联网+"创新创业大赛主赛道铜奖&emsp;&emsp;&emsp;校数学建模大赛一等奖 -->
+
+#### Handan University-School Information Engineering-Network Engineerin (undergraduate)<a style= "float:right; color: \845ec2; width:auto;" > 2018/9—2022/6</a>
+* Honorary title: excellent league cadre &emsp;&emsp; Three good students
+* School Awards: bronze medal of the main track of the 2019 Hebei "Internet+" innovation&emsp;&emsp;and entrepreneurship competition;
+  First prize in mathematical modeling competition of the University;
+
+
+##  <i class="fa fa-star"></i> Professional Skills
+
+#### Skill Certificate
+* **CET4** Through CET-4, I can read professional materials without barriers and have smooth daily communication.
+
+* **HCIP R&S** Obtain hcip certification, understand network structure, master OSI seven layer model and tcp/ip model, master basic network knowledge, master OSPF and BGP protocols, and understand common redundant flow control protocols; VRRP, ACL, QoS, etc., understand STP, VPN, IPSec And other common network protocols.
+
+
+#### Professional Ability
+* **Linux** Familiar with linux/unix system, familiar with the installation, configuration, management and simple optimization of common application software under Linux, such as nginx, can write shell scripts, familiar with common web system architecture, and have the ability to troubleshoot and solve problems independently.
+* **Programming**  Familiar with linux/unix system, familiar with the installation, configuration, management and simple optimization of common application software under Linux, such as nginx, can write shell scripts, familiar with common web system architecture, and have the ability to troubleshoot and solve problems independently.
+* **Web Security** At present, my hobbies and contacts are relatively late. You can use burp suite and awvs to scan and test vulnerabilities, and be familiar with the principles of common web attacks such as SQL injection, XSS, CSRF, file upload vulnerability, server redirection, and you can defend against vulnerabilities.
+* **WAF** The graduation project is about this aspect, in which I have studied the projects organized by OWASP, and I am proficient in open source waf  Configuration and debugging of ModSecurity, understand the working mechanism and principle of ModSecurity, and master the syntax and configuration of the core rule set of the rule engine CRS.
+* **Other** Proficient in usg5500 firewall and switch s3700 configuration, other models of equipment have not been actually operated.
+
+
+## <i class="fas fa-award"></i> Campus Experience
+* **Campus Learning** I studied professional courses hard, often participated in practical activities and major competitions, and actively participated in the learning tasks assigned by my tutor in my spare time, broadening my horizons and learning other aspects of knowledge.
+* **Network Upgrade** Participated in the construction of our new campus network. In order to achieve the final effect of "10 Gigabit between buildings, Gigabit to the desktop", after checking the basic situation of the network at that time, combined with the budget, the instructor gave the final plan, participated in the ISO assurance evaluation meeting, and then revised the plan according to expert suggestions.
+* **Graduation Project** Under the teacher's introduction, I chose open source WAF ModSecurity as the completion topic, which is relatively small and simple. In the process of completing the completion, I learned common Web attack methods, CRS core rule sets, WAF deployment details and processes and common testing methods, and finally completed the design of five modules, which greatly improved my learning ability.
 
 
 
-## <i class="fas fa-user-graduate"></i> Education background
+
+## <i class="fa fa-mail-forward"></i>Self Evaluation
+* Work seriously and responsibly, have a rigorous attitude, be positive and full of team spirit;
+* Self study, strong practical ability, able to bear hardships and stand hard work, and pay attention to the cultivation of their own quality;
+* Cheerful personality, strong pressure resistance, good at communication, like to cooperate with others, willing to share;
 
 
-
-* **Dalian University of Technology - School of Software - Electronic information**  <a style="float:right; color: #845ec2; width:auto;">2020/9—2023/6</a>
-
-* **Shandong Jianzhu University - Computer Science and Technology**  <a style="float:right; color: #845ec2; width:auto;">2015/9—2019/6</a>
-<!-- <p align="right">2020/9—2023/6</p> -->
-
-##  <i class="fa fa-star"></i> Personal skills
-
-#### programming language
-* **C** ,the language I first contact with is the language I use most, and the language I am best at at present
-
-* **Assembly language、shell、makefile**, writing simple code, script.
-* **c++** ,having learned QT, the current brush questions in the language
-* **java**,a language that I want to put down and touch for a long time. I have done Android and Web and won awards. I have not touched it for a long time
-* **python** Self-taught language, video crawling, script writing (such as automatic website check-in), currently mainly studying deep arning but not accustomed python grammar.
-
-#### Common system
-* Windows is used the most, an essential system for embedded IDE
-
-* **CentOS**  is the system used by the server, and it is also the most familiar with the Linux series. For example, this site is this system and I hate Ubuntu.
-* MacOS  is currently the main force of daily scientific research
-
-## <i class="fas fa-award"></i> Project experience
-### Hardware aspect
-* Familiar with single-chip microcomputer (stm32), understand the use of single-chip microcomputer (currently I have not touched 51, stm32 for a long time), be able to complete small projects independently, and be familiar with UART, I2C, SPI and other interfaces.
-* Intelligent controllable switches and light items can be remotely controlled and displayed through mobile phones. They are divided into hardware end, server end, and control display end.
-* Greenhouse temperature and humidity harmful gas environment monitoring project, and remote display (2.4G wireless communication)
-
-* 51-based voltage and power monitoring (entry works, long time ago)
-
-### Software aspect
-* [Handwriting BootLoader<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/05/25/1621910793955.html), the easiest BootLoader to start the linux kernel
-* [The kernel 3.4.2 transplantation](https://aeneag.xyz/articles/2021/06/08/1623160617353.html)(Based on JZ2440), tailor the kernel and transplant it.
-* [Uboot（v.2016 & v.2014）transplant project<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/06/04/1622783443968.html), according to the chip manual, adapt to the ARM version
-* [E-book project and digital photo frame project based on JZ2440<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/07/14/1626262712552.html)The project from BootLoader to kernel, file system, driver, display, touch screen and so on from scratch
-* [File storage system<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/04/13/1618294064331.html)(Java front end separation project) (Unfamiliarity with the front end and lack of time to deal with unfinished projects)
-
-* Highway emergency rescue system (Web, Java), campus repair system (App), etc. (Entries, long time ago)
-
-## <i class="fa fa-mail-forward"></i>Other aspects
-
-I am familiar with the use and configuration of the server, have a deeper understanding of Nginx, Tomcat, etc., familiar with [nginx reverse proxy<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/s/KTW-sqGxSAf0rEfSQn91Kg), etc., familiar with the operation of mysql, Docker, etc. [https://aeneag.xyz<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz)This blog is running on docker.Having strong hands-on ability.
-
-At present, I mainly study edge computing, and also like to write technical articles, mainly on blog [https://aeneag.xyz<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz) and wechatr official account: Technology Dance.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linux kernel introduction series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2037048996593975300#wechat_redirect)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C language series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2090455610793181186#wechat_redirect)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linux series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2068779356419571716#wechat_redirect)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Playing with Python series articles<i class="fa fa-hand-o-left"></i>](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzIzODIzNA==&action=getalbum&album_id=2115067707141177347#wechat_redirect)
 
 ## <i class="fas fa-phone-alt"></i> Contact me
 
@@ -123,53 +112,41 @@ At present, I mainly study edge computing, and also like to write technical arti
 <center>
 {% endraw %}
 
-<a style="font-size:1.2em; color: #845ec2; width:auto;" href="https://aeneag.xyz">https://aeneag.xyz<i class="fa fa-hand-o-left"></i></a>
+<a style="font-size:1.2em; color: #845ec2; width:auto;" href="https://www.yuque.com/zhangli-gm0xo">Weblog<i class="fa fa-hand-o-left"></i></a>
 
-<a style="font-size:1.3em;  color: #845ec2; width:auto;" href="https://dxinxia.icu">https://dxinxia.icu<i class="fa fa-hand-o-left"></i></a>
 
-<a style="font-size:1.2em;  color: #845ec2; width:auto;">aeneag@163.com</a>
+<a style="font-size:1.2em;  color: #845ec2; width:auto;">coekily_mae@163.com</a>
 
 
 <br>
 <div >
-            <a href="https://github.com/aeneag"
-               title="https://github.com/aeneag"
+            <a href="https://github.com/Zhangli777"
+               title="https://github.com/Zhangli777"
                target="_blank" rel="noopener nofollow"
                style="color: #000; width:auto;">
               <i class="fa fa-github-square fa-2x"></i>
             </a> &nbsp;&nbsp;&nbsp;
-            <a href="tencent://message/?uin=1500133652"
-               title="1500133652"
+            <a href="tencent://message/?uin=411560180"
+               title="411560180"
                target="_blank"
                rel="noopener nofollow"
                style="color: #000; width:auto;">
                 <i class="fa fa-qq fa-2x"></i>
             </a>&nbsp;&nbsp;&nbsp;
-            <a href="javascript:alert('wechat：aeneag')"
-               title="aeneag"style="color: #000; width:auto;">
+            <a href="javascript:alert('wechat：ZL12249999')"
+               title="ZL12249999"style="color: #000; width:auto;">
                 <i class="fa fa-weixin fa-2x"></i>
             </a>
 </div><br>
-<div style="text-algin:center;margin-top:10px;">
-<a style=" display: block;color:#845ec2">WeChat Official Accounts</a>
-<img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
-</div>
+
 <div >
-<a style=" display: block;color:#845ec2">Personal WeChat</a>
-<img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/WechatIMG91-dc5e5be8.jpeg" alt="个人微信">
+<a style=" display: block;color:#845ec2">WeChat</a>
+<img style="height: 240px;width: 240px; " src="https://s3.bmp.ovh/imgs/2022/07/04/6486ce3bf6ca9f2d.jpg" alt="个人微信">
 </div>
 
 {% raw %}
 </center>
 {% endraw %}
-## Comments
-<!-- 
-{% raw %}
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="17"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{% endraw %} -->
+## Comment
+
+
